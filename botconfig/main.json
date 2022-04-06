@@ -1,5 +1,5 @@
 {
-  "clienttoken": "OTQ0MTk4Nzg2MDIzMDYzNTcy.Yg-HpA.7wMtpu0jJyydbIlwJxfyKGyOZwI",
+  "clienttoken": "PRIVATE",
 
   "Note_Token:":"Put Your Bot Token Above (If your using replit then make a new secret 'clienttoken' and put ur bot token there... and then keep this string empty)",
 
@@ -19,9 +19,7 @@
 
   "colorthemecode":"#FF5733 (Not Neccessary.)",
   
-  "randomMessages_Cooldown": ["Slow It Down Fam...", "Spam Isn't Cool Fam....", "Get Premium dude...", "Never Gonna Let You Down"],
-
-  "NOTE:" : "IF YOU DONT PUT STUFF HERE IT WILL THROW ERRS"
+  "randomMessages_Cooldown": ["Slow It Down Fam...", "Spam Isn't Cool Fam....", "Get Premium dude...", "Never Gonna Let You Down"]
 }
 
 
