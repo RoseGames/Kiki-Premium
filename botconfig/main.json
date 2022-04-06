@@ -1,8 +1,6 @@
 {
   "clienttoken": "PRIVATE",
 
-  "Note_Token:":"Put Your Bot Token Above (If your using replit then make a new secret 'clienttoken' and put ur bot token there... and then keep this string empty)",
-
   "clientname": "Kiki Premium",
 
   "clientid": "944198786023063572",
